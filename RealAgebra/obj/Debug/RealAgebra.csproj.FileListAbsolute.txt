@@ -1,0 +1,10 @@
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day14\RealAgebra\RealAgebra\bin\Debug\RealAgebra.exe.config
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day14\RealAgebra\RealAgebra\bin\Debug\RealAgebra.exe
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day14\RealAgebra\RealAgebra\bin\Debug\RealAgebra.pdb
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day14\RealAgebra\RealAgebra\bin\Debug\ShapeAreaLib.dll
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day14\RealAgebra\RealAgebra\bin\Debug\ShapeAreaLib.pdb
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day14\RealAgebra\RealAgebra\obj\Debug\RealAgebra.csproj.AssemblyReference.cache
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day14\RealAgebra\RealAgebra\obj\Debug\RealAgebra.csproj.CoreCompileInputs.cache
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day14\RealAgebra\RealAgebra\obj\Debug\RealAgebra.csproj.CopyComplete
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day14\RealAgebra\RealAgebra\obj\Debug\RealAgebra.exe
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day14\RealAgebra\RealAgebra\obj\Debug\RealAgebra.pdb
